@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%38761d&lines=Hello+🥋)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%214113&lines=Hello+🥋)](https://git.io/typing-svg)
 
 * My name is Dmitry
 * I'm computer science student at ITMO University, St Petersburg, Russia
@@ -21,5 +21,5 @@
 
 ### Stats
 
-![sigmadt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmadt&show_icons=true&theme=gruvbox)
+![sigmadt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmadt&show_icons=true&theme=vision-friendly-dark)
 
