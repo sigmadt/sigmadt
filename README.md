@@ -2,11 +2,11 @@
 
 * My name is Dmitry
 * I'm computer science student at ITMO University, St Petersburg, Russia
-* Interests: algorithms / programming Languages / chess
+* Interests: algorithms / programming languages / chess
 * Contact me via telegram `@sigmadt` or discord `sigmadt#0372`
 
 
-### 🧰 Languages and Tools
+### Programming Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,7 +19,7 @@
 
 <br />
 
-### 📊 Stats
+### Stats
 
 ![sigmadt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmadt&show_icons=true&theme=gruvbox)
 
