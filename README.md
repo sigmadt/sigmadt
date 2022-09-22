@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%D09C45&lines=Hello+🥋)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=F7B92F&width=435&lines=Hello+🥋)](https://git.io/typing-svg)
 
 * My name is Dmitry
 * I'm computer science student at ITMO University, St Petersburg, Russia
