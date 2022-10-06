@@ -1,8 +1,7 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=F7B92F&width=435&lines=Hello+🥋)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=F7B92F&width=435&lines=Hello)](https://git.io/typing-svg)
 
-* My name is Dmitry
 * I'm computer science student at ITMO University, St Petersburg, Russia
-* Interests: algorithms / programming languages / chess
+* Interests: algorithms / statistics / programming languages /  chess
 * Contact me via telegram `@sigmadt` or discord `sigmadt#0372`
 
 
@@ -21,5 +20,4 @@
 
 ### Stats
 
-![sigmadt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigmadt&show_icons=true&theme=vision-friendly-dark)
-
+![stats with graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigmadt&theme=gruvbox)
