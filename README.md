@@ -1,6 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=2167a7F&width=435&lines=Hello)](https://git.io/typing-svg)
 
-* I'm computer science student at ITMO University, St Petersburg, Russia
 * Interests: algorithms / statistics / programming languages /  chess
 * Contact me via telegram `@sigmadt` or discord `sigmadt#0372`
 
